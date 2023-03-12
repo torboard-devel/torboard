@@ -39,16 +39,9 @@ Requirements
 	[Memcached](http://www.php.net/manual/en/intro.memcached.php) or
 	[Redis](https://redis.io/docs/about/)
 
-Contributing
-------------
-You can contribute to vichan by:
-*	Developing patches/improvements/translations and using GitHub to submit pull requests
-*	Providing feedback and suggestions
-*	Writing/editing documentation
-
 Installation
 -------------
-Follow the same steps as you to insall vichan.
+Follow the same steps as you to install vichan.
 
 Oekaki
 ------
