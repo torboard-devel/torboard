@@ -1,5 +1,8 @@
 TORboard - A lightweight and full featured PHP imageboard used on Uroborosu
 ===========================================================================
+
+THIS REPO IS BROKEN
+===================
 **TORboard does not offer ANY kind of support - use with caution**
 
 About
