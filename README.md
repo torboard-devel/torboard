@@ -9,7 +9,7 @@ imageboard software package based on vichan. It is written in PHP and has few de
 
 History
 ------------
-vichan is a fork of (now defunc'd) [Tinyboard](http://github.com/savetheinternet/Tinyboard),
+TORboard is a fork of [vichan](https://github.com/vichan-devel/vichan) which is in turn a fork of (now defunc'd) [Tinyboard](http://github.com/savetheinternet/Tinyboard),
 a great imageboard package, actively building on it and adding a lot of features and other
 improvements.
 
