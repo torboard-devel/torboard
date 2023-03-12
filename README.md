@@ -5,7 +5,7 @@ TORboard - A lightweight and full featured PHP imageboard used on Uroborosu
 About
 ------------
 TORboard is a free light- weight, fast, highly configurable and user-friendly
-imageboard software package based on vichan. It is written in PHP and has few dependencies.
+imageboard software package based on vichan and designed for a personal project. It is written in PHP and has few dependencies.
 
 ![image](https://user-images.githubusercontent.com/127651804/224530928-39280a6c-d276-4780-8f4e-58cd601c3dac.png)
 
